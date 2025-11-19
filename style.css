@@ -1,0 +1,54 @@
+body {
+    width: 95%;
+    max-width: 980px;
+    color: rgb(12, 11, 11);
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.heading {
+    font-size: 72px;
+}
+
+.navbar {
+    padding: 10px;
+    margin: 0;
+}
+
+.container h1 {
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 44px;
+}
+
+.column {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1.5rem;
+}
+
+.animal-img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cute-cat-img {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+}
